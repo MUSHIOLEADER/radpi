@@ -15,6 +15,10 @@ function App() {
     
     <div className="app">
        <Navbar/>
+       <Home/>
+       <Home1/>
+       <Wwd/>
+       <Cqf/>
       <Switch>
         <Route exact path={'/home'}>          
         <Home/>
