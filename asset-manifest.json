@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/radpi/static/css/main.72d141a5.css",
+    "main.js": "/radpi/static/js/main.92b7ac16.js",
+    "static/media/image1.jpg": "/radpi/static/media/image1.6347a193bc08d42abd83.jpg",
+    "static/media/radpi.jpg": "/radpi/static/media/radpi.d49d91a689c645f37254.jpg",
+    "static/media/photo.JPG": "/radpi/static/media/photo.354522332dadf0ed6105.JPG",
+    "static/media/code.JPG": "/radpi/static/media/code.76ea8e0e0c7b5349cf10.JPG",
+    "static/media/enfant.PNG": "/radpi/static/media/enfant.5d8019cddd84d69fe0f5.PNG",
+    "static/media/image2.PNG": "/radpi/static/media/image2.e072a279aad0ff57b4f8.PNG",
+    "static/media/image3.PNG": "/radpi/static/media/image3.238e406ae83ed3b994c7.PNG",
+    "static/media/ccqf1.PNG": "/radpi/static/media/ccqf1.850b5d3f528894b43ebd.PNG",
+    "static/media/dignite.PNG": "/radpi/static/media/dignite.6e291388c0db53d906c3.PNG",
+    "static/media/pint12.jpg": "/radpi/static/media/pint12.58a3f7f58ca409e39e69.jpg",
+    "static/media/pinte.jpg": "/radpi/static/media/pinte.56369e1d7860d6f1e463.jpg",
+    "static/media/logo.PNG": "/radpi/static/media/logo.7ddb95ead3f0ff5d8425.PNG",
+    "index.html": "/radpi/index.html",
+    "main.72d141a5.css.map": "/radpi/static/css/main.72d141a5.css.map",
+    "main.92b7ac16.js.map": "/radpi/static/js/main.92b7ac16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d141a5.css",
+    "static/js/main.92b7ac16.js"
+  ]
+}
