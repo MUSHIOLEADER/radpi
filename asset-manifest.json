@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/radpi/static/css/main.72d141a5.css",
-    "main.js": "/radpi/static/js/main.66229371.js",
+    "main.js": "/radpi/static/js/main.98b73997.js",
     "static/media/image1.jpg": "/radpi/static/media/image1.6347a193bc08d42abd83.jpg",
     "static/media/radpi.jpg": "/radpi/static/media/radpi.d49d91a689c645f37254.jpg",
     "static/media/photo.JPG": "/radpi/static/media/photo.354522332dadf0ed6105.JPG",
@@ -16,10 +16,10 @@
     "static/media/logo.PNG": "/radpi/static/media/logo.7ddb95ead3f0ff5d8425.PNG",
     "index.html": "/radpi/index.html",
     "main.72d141a5.css.map": "/radpi/static/css/main.72d141a5.css.map",
-    "main.66229371.js.map": "/radpi/static/js/main.66229371.js.map"
+    "main.98b73997.js.map": "/radpi/static/js/main.98b73997.js.map"
   },
   "entrypoints": [
     "static/css/main.72d141a5.css",
-    "static/js/main.66229371.js"
+    "static/js/main.98b73997.js"
   ]
 }
